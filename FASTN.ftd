@@ -3,17 +3,12 @@
 -- fastn.package: meenukumari28.github.io/coming-soon-5
 favicon: /-/meenukumari28.github.io/coming-soon-5/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/inter-typography
+-- fastn.dependency: fastn-community.github.io/lobster-font
+-- fastn.dependency: fastn-community.github.io/design-system
+provided-via: meenukumari28.github.io/coming-soon-5/ds
 
--- fastn.auto-import: meenukumari28.github.io/coming-soon-5/FASTN/ds
 -- fastn.auto-import: meenukumari28.github.io/coming-soon-5/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: meenukumari28.github.io/coming-soon-5/ds
+-- fastn.auto-import: meenukumari28.github.io/coming-soon-5/lib
+-- fastn.auto-import: meenukumari28.github.io/coming-soon-5/fonts
