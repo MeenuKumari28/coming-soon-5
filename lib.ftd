@@ -12,6 +12,7 @@ inset if { ftd.device == "mobile" }: $ds.spaces.inset-wide.medium-zero
 -- ftd.text: $coming-soon.title
 role: $fonts.heading-large
 color: #000000
+text-align: center
 
 -- ds.copy-regular: $coming-soon.body
 align: center
