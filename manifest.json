@@ -77,13 +77,13 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "DFFA3746DEB9F043E73B89170E55BA69CB909823646B250A029A333FFD2A2B63",
-      "size": 286
+      "checksum": "54F2165C723AB6C2CEEBDE1E44DD638C5464EB675EB99E45225D2CA9CBC8D0CF",
+      "size": 263
     },
     "lib.ftd": {
       "name": "lib.ftd",
-      "checksum": "C6A7D9B5756A471AC2BD96ED48963600EF43C6BA153AAB8229132E5F2DB39F58",
-      "size": 1439
+      "checksum": "33719C66969DDF7D289C2DC44162E090D1190E3BFB9DA3E1D5CACC139D27EBDB",
+      "size": 1458
     },
     "themecolors.ftd": {
       "name": "themecolors.ftd",
@@ -97,5 +97,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/coming-soon-5/zip/refs/heads/main",
-  "checksum": "DB8E8CC4157407F498712581781BDEBFF1507EEFBB028AB9894E5856230B0D98"
+  "checksum": "406E5DBCABA8199FD551D96D4637E685617E1D3AF55F66FCE315E38385FE7690"
 }
